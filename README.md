@@ -28,4 +28,5 @@ App for resize and optimise images to format .avis, .webp, .jpg
   </tbody>
 </table>
 
+
 Thank you for testing, reporting and contributing.
