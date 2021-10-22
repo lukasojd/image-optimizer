@@ -7,6 +7,11 @@
 
 App for resize and optimise images to format .avis, .webp, .jpg
 
+## Technologies
+
+* PHP 8
+* Symfony 5.3
+
 ## Maintainers
 
 <table>
